@@ -1,2 +1,2 @@
-# wsbim2122
+# wsbim2122_git
 Projets WSBIM2122
